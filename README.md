@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+ # Rock Paper Scissors Game
 
 ## Description
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript. The player competes against the computer in a classic game of Rock Paper Scissors.
